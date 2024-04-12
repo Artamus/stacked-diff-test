@@ -16,3 +16,8 @@ The non-goals are evaluating anything else other than stacked-diffness for revie
 
 TODO: List common workflows w.r.t. pushing-pulling in between commits and how it interacts with amending locally etc.
 
+Limitations: 
+ - The platform is GitHub.
+ - Trunk-based development is not really possible to change to, because of the way existing tooling works.
+ - Another code review tool MIGHT be possible, especially if it's free or can work in the context of self-hosted OSS that your team has to agree to use.
+
