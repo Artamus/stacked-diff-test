@@ -4,4 +4,5 @@ fun main() {
   println("ghstack 2")
   println("maiao 1")
   println("maiao 1.1")
+  println("maiao 2")
 }
