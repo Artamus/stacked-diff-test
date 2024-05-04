@@ -5,5 +5,6 @@ fun main() {
   println("Maiao 3")
   println("Maiao 4")
   println("Maiao 5")
+  println("Maiao 6")
 }
 
