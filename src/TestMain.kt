@@ -9,6 +9,6 @@ fun main() {
   println("Maiao 7")
   println("Maiao 8")
   println("Maiao 9-1")
-  println("Maiao 10")
+  println("Maiao 10-1")
 }
 
