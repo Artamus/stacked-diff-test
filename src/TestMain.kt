@@ -13,7 +13,5 @@ fun main() {
   println("rawgit 1")
   println("rawgit 1-1")
   println("rawgit 2")
-  println("rawgit 2-1")
-  println("rawgit 2-2")
 }
 
