@@ -16,4 +16,5 @@ fun main() {
   println("test 5-1")
   println("blaaa")
   println("asd")
+  println("foo2")
 }
