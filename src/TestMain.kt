@@ -19,4 +19,5 @@ fun main() {
   println("foo2")
   println("bla")
   println("blabla")
+  println("foo")
 }
