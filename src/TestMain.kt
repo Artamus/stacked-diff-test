@@ -24,4 +24,5 @@ fun main() {
   println("bar")
   println("baz")
   println("shazam")
+  println("zab")
 }
