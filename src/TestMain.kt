@@ -22,4 +22,6 @@ fun main() {
   println("blabla")
   println("foo")
   println("bar")
+  println("baz")
+  println("shazam")
 }
