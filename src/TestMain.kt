@@ -26,4 +26,5 @@ fun main() {
   println("shazam")
   println("zab")
   println("uff")
+  println("ffu")
 }
