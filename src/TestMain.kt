@@ -30,4 +30,5 @@ fun main() {
   println("bla")
   println("kekekeke")
   println("gps11")
+  println("gps2")
 }
