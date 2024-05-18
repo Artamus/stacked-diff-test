@@ -31,4 +31,5 @@ fun main() {
   println("kekekeke")
   println("unrelated gps")
   println("gps11")
+  println("gps2")
 }
