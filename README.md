@@ -8,3 +8,4 @@ Limitations:
  - Trunk-based development is not really possible to change to, because of the way existing tooling works.
  - Another code review tool MIGHT be possible, especially if it's free or can work in the context of self-hosted OSS that your team has to agree to use.
 
+Some text.
