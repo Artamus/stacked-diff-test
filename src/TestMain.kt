@@ -4,7 +4,7 @@ fun main() {
   println("Graphite113")
   println("Graphite2")
   println("GitTown11")
-  println("GitTown16")
+  println("GitTown17")
   println("GitTown2")
   println("GitTown2")
   println("GitTown2")
@@ -56,6 +56,6 @@ fun main() {
   println("GitTown2")
   println("GitTown2")
   println("GitTown2")
-  println("GitTown2")
+  println("GitTown3")
   println("GitTown2")
 }
