@@ -5,6 +5,7 @@ fun main() {
   println("Graphite2")
   println("GitTown11")
   println("GitTown17")
+  // Something new?
   println("GitTown2")
   println("GitTown2")
   println("GitTown2")
@@ -14,8 +15,7 @@ fun main() {
   println("GitTown2")
   println("GitTown2")
   println("GitTown2")
-  println("GitTown2")
-  println("GitTown2")
+  println("testbit")
   println("GitTown3")
   println("GitTown2")
 }
